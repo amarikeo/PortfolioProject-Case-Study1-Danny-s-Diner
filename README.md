@@ -1,6 +1,6 @@
 # Case-Study1-Dannys-Diner
 # Danny_Ma_SQL_Challenge_Case_Study_1
-I have created a solution for Case Study 1 of Danny Ma's 8-week SQL challenge. The solution utilizes SQL Aggregate functions, JOINS, and Common Table Expressions (cte) for data manipulation.<br><br>
+I have created a solution for Case Study 1 of Danny Ma's 8-week SQL challenge. The solution utilizes SQL Aggregate functions, JOINS, and Common Table Expressions (cte) for data manipulation.<br><br> 
 ![temp](https://8weeksqlchallenge.com/images/case-study-designs/1.png)
 
 ## Introduction
